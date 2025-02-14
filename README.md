@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left" style="background-color: green">Hey 👋 What's up?</h1>
 <p align="center">
   <img src="https://github.com/ujjwaldalal7/ujjwaldalal7/blob/main/NAMEGIF%20-%20Made%20with%20Clipchamp.gif" alt="Header">
 </p>
