@@ -1,4 +1,4 @@
-[![Header](https://github.com/ujjwaldalal7/read/blob/main/name%20-%20Made%20with%20Clipchamp_1739539044441.gif)]
+![Header](https://github.com/ujjwaldalal7/read/blob/main/name%20-%20Made%20with%20Clipchamp_1739539044441.gif)
 
 - 👋 Hi, I’m @ujjwaldalal7
 - 👀 I’m interested in Web Development
