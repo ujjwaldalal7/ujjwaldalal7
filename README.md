@@ -1,13 +1,12 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-<hr>
 <p align="center">
   <img src="https://github.com/ujjwaldalal7/ujjwaldalal7/blob/main/NAMEGIF%20-%20Made%20with%20Clipchamp.gif" alt="Header">
 </p>
 
-- 👋 Hi, I’m @ujjwaldalal7
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN stack
-- I'm a UG student of Computer Engineering at Thapar Institiute of Engineering & Technology, Patiala
+- 👋 Hi, I’m Ujjwal Dalal.
+- 📚 I am currently an UG student of Computer Engineering at Thapar Institiute of Engineering & Technology, Patiala.
+- 💻 Currently working mainly with MERN stack.
+- 👀 LOOKING FORWARD FOR NEW OPPORTUNITIES.
 
 <br clear="both">
 
