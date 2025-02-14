@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" bgcolor="blue">
   <img src="https://github.com/ujjwaldalal7/ujjwaldalal7/blob/main/NAMEGIF%20-%20Made%20with%20Clipchamp.gif" alt="Header">
 </p>
 
