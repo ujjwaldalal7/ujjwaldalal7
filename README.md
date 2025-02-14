@@ -1,7 +1,8 @@
 
-<div align="center">
+<p align="center">
   <img src="https://github.com/ujjwaldalal7/read/blob/main/NAMEGTF%20-%20Made%20with%20Clipchamp.gif" alt="Header">
-</div>
+</p>
+
 
 - 👋 Hi, I’m @ujjwaldalal7
 - 👀 I’m interested in Web Development
