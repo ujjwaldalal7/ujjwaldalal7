@@ -1,6 +1,5 @@
-<div align="center">
+
 ![Header](https://github.com/ujjwaldalal7/read/blob/main/NAMEGIF%20-%20Made%20with%20Clipchamp.gif)
-</div>
 - 👋 Hi, I’m @ujjwaldalal7
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN stack
