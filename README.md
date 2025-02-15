@@ -10,10 +10,8 @@
 
 <br clear="both">
 
-<h3 align="left">Language and Frameworks</h3>
-
 ###
-
+##  Languages and Tools :
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -45,7 +43,7 @@
 </div>
 
 ###
-## 🌐 Socials:
+## 🌐 Socials :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ujjwaldalal0007) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dalal-ujjwal) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:official.dalalujjwal@gmail.com) 
