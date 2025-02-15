@@ -8,8 +8,6 @@
 - 💻 Currently working mainly with MERN stack.
 - 👀 LOOKING FORWARD FOR NEW OPPORTUNITIES.
 
-<br clear="both">
-
 ###
 ##  Languages and Tools :
 <div align="left">
