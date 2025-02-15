@@ -7,9 +7,9 @@
 - 📚 I am currently an UG student of Computer Engineering at Thapar Institiute of Engineering & Technology, Patiala.
 - 💻 Currently working mainly with MERN stack.
 - 👀 LOOKING FORWARD FOR NEW OPPORTUNITIES.
-<p align="center">
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwaldalal7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
+
 ###
 ##  Languages and Tools :
 <div align="left">
